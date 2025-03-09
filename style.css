@@ -225,3 +225,29 @@ h4{
 .price-content:hover .price-content-body>p>span{
     color:#009016;
 }
+.sinner1{
+    background-color: #ffffff;
+    min-height: 440px;
+    text-align: center;
+    font-family: 'bignoodletitling';
+
+
+}
+.sinner2{
+    padding: 9%;
+    background-color: #d8d8d8;
+    min-height: 440px;
+    text-align: center;
+    font-family: 'bignoodletitling';
+    /* min-width: 900px;     */
+}
+.ourworks{
+    padding-bottom: 90px;
+}
+.ourworks .bx-wrapper .bx-pager , .bx-wrapper .bx-controls-auto{
+    position:absolute;
+    bottom: 50px;
+    width: 100%;
+    left: -34%;
+}
+
